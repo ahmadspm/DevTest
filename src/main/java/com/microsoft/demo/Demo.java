@@ -9,4 +9,5 @@ public class Demo {
 
         System.out.println("I am not covered");
     }
+    system.out.println("please purchase a cover");
 }
